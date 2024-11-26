@@ -1,0 +1,24 @@
+# Node.js-related
+node_modules/
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript output (compiled files)
+dist/
+out/
+
+# IDE or editor configuration files
+.vscode/
+.idea/
